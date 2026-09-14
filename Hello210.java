@@ -9,5 +9,6 @@ public class Hello210 {
     public static void main(String args[]) {
         
         System.out.println("Hello CSIS 210 World!");
+        System.out.println("My hometown is Panama, fav restaurant: Pio Pio, favorite item: empanadas");
     }
 }
